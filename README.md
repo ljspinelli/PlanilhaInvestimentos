@@ -5,3 +5,5 @@ SPINVEST é uma planilha em Excel desenvolvida para simular investimentos em fun
 A ferramenta permite explorar cenários com diferentes valores de aporte, prazos e taxas de rendimento.
 Automatiza os cálculos de valor total investido, patrimônio acumulado e dividendos mensais estimados.
 O projeto aplica conceitos de Excel para facilitar o planejamento financeiro e apoiar decisões mais informadas.
+
+Senha De Proteção dos Campos Calculados: 1234
